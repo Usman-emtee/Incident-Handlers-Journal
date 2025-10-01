@@ -1,7 +1,7 @@
 # Incident Handler’s Journal
 
 ## Overview
-This repository presents an incident handler’s journal from a cybersecurity training course, documenting hands-on exercises in incident detection and response. As an aspiring security analyst, I analyzed ransomware and malicious file incidents, used tools like Wireshark, tcpdump, and VirusTotal, and applied NIST CSF principles. Python scripts summarize incident data, reflecting my skills in problem-solving and protecting organizations from digital threats, with a focus on web-related incidents like phishing.
+This repository presents an incident handler’s journal from a cybersecurity training course, documenting hands-on exercises in incident detection and response. As an aspiring security analyst, I analyzed ransomware and malicious file incidents, used tools like Wireshark, tcpdump, and VirusTotal, and applied NIST CSF principles. Reflecting my skills in problem-solving and protecting organizations from digital threats, with a focus on web-related incidents like phishing.
 
 ## Objectives
 - Document and analyze cybersecurity incidents from a course journal.
